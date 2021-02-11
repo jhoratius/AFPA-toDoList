@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.title_1, .form_1, .tasks_1{
+  text-align: center;
+}
+.tasks_1{
+  display: flex;
+  justify-content: center;
+}
+.tasks_2{
+  padding:10px;
+  width: 20%;
+}
+.item_btn{
+  border:1px solid black;
+}
